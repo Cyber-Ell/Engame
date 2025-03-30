@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import './Assembly.css'
 import {clsx} from "clsx"
 import { languages } from '../../language'
-import { getFarewellText, getRandomWord} from '../utils'
+import { getFarewellText, getRandomWord} from '../../utils'
 import Confetti from "react-confetti"
 
 
