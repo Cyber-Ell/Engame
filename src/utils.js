@@ -1,4 +1,4 @@
-import { words } from "../../../Tenzies/src/word";
+import { words } from "./word.js";
 
 export function   getRandomWord () {
       const randomIndex = Math.floor(Math.random() * words.length);
