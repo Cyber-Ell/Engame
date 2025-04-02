@@ -110,6 +110,7 @@ section.keyboard{
       gap: 8px;
       justify-content: center;
       max-width: 450px;
+      margin: 0 auto;
 }
 
 section.keyboard > button.correct {
